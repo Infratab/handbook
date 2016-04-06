@@ -1,6 +1,6 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+title:              "Infratab Handbook"
+description:        "Handbook is a reference manual for all Infratab employees."
 #google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 #google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
@@ -12,8 +12,8 @@ twitter_username:   infratab
 
 # Site Settings
 baseurl:            "/handbook" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur
+permalink:          /:title # Post permalink
+timezone:           Asia/Kolkata
 
 # Site Build
 highlighter:        pygments
