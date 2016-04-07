@@ -3,13 +3,11 @@
 
 >Don't bother once completed
 
-- Wunderlist tasks are very short shelf life
+- Wunderlist tasks carry a very short shelf life
 - Wunderlist tasks are meant for only handling the current and the prospective contexts of the work taken up in our office
-
-
-- Wunderlist tasks are meant for
-  - Prioritizing work -  this involves scheduling the urgency of the tasks as well as deferring the todos for the future
-  - Managing daily standups - all the works mentioned in a daily standup should be a wunderlist task
+- Wunderlist tasks are primarily meant for
+  - **Prioritizing work:**  Involves scheduling the urgency of the tasks as well as deferring the todos for the future
+  - **Managing daily standups:** All the works mentioned in a daily standup should be a wunderlist task
 
 - Assignment of wunderlist tasks signifies that the ownership of the task rests with the assignee. In our office, this assignment can be passed around depending on the evolving needs of the work and the urgency of the work involved and the availability of the assignee. However, in such cases - the current assignee and the new assignee should agree upon this change in assignment and the same be broadcasted to the entire office.
 
