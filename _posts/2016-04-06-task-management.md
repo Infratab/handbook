@@ -13,6 +13,7 @@
 
 >Created by anyone. Completed by the one who worked on it
 
+- Wunderlist tasks can and should be created by anyone who understands the need for that particular task. Asking somebody else to create a task should be avoided.
 - 
 
 #### Assigning a Task
