@@ -14,7 +14,14 @@
 >Created by anyone. Completed by the one who worked on it
 
 - Wunderlist tasks can and should be created by anyone who understands the need for that particular task. Asking somebody else to create a task should be avoided.
-- 
+- Before creating a wunderlist task, do spend a few minuted to confirm that it will not become a duplicate of another already existing task.
+- The titles of the tasks can be changed/updated any number of time.
+- Tasks can be merged or removed by anyone once they broadcast using "@everyone" on why they are doing so
+- There can be any number of wunderlist tasks created - the range of the scope of work for any task is left to the discretion of the person who is working on the task (assignee)
+
+>For instance, A creates a task and assigns B to it. B can always look up the task and then decide to break it into multiple tasks with a smaller scope of work, or vice versa, B can decide that multiple existing wunderlist tasks can be made into one single task
+
+
 
 #### Assigning a Task
 
