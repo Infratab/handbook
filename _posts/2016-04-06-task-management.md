@@ -1,8 +1,9 @@
 # Task Management with Wunderlist
-
+---
+>Don't bother once completed
 - Wunderlist tasks are very short shelf life
-- Don\'t bother once completed
-- They are meant to only handle the current and the prospective contexts of the work taken up in our office
+- Wunderlist tasks are meant for only handling the current and the prospective contexts of the work taken up in our office
+
 
 - Wunderlist tasks are meant for
   - Prioritizing work -  this involves scheduling the urgency of the tasks as well as deferring the todos for the future
