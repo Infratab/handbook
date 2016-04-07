@@ -1,6 +1,8 @@
 # Task Management with Wunderlist
----
+
+
 >Don't bother once completed
+
 - Wunderlist tasks are very short shelf life
 - Wunderlist tasks are meant for only handling the current and the prospective contexts of the work taken up in our office
 
