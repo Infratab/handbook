@@ -7,6 +7,13 @@
 - Wunderlist tasks are primarily meant for
   - **Prioritizing work:**  Involves scheduling the urgency of the tasks as well as deferring the todos for the future
   - **Managing daily standups:** All the works mentioned in a daily standup should be a wunderlist task
+  - **Time management:** 
+
+#### Creating and completing a wunderlist task
+
+>Created by anyone. Completed by the one who worked on it
+
+- 
 
 #### Assigning a Task
 
@@ -24,3 +31,9 @@
 - It is recommended to provide due dates, even if they are tentative for tasks that are being planned to be completed within the near and foreseeable future.
 - Due dates of wunderlist tasks thus tentatively framed can and in fact should be regularly updated based on the evolving work situtaion of the assignee as this provides a rough outline of the work being planned for the next few days by the assignee.
 - Tasks which have not been completed within the due date, should be updated with their status by a comment and then the due date updated.
+
+#### Notes
+-
+
+#### Sub tasks
+- 
