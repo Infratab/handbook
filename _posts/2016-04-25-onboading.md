@@ -1,5 +1,9 @@
 ## Backend
 
+```
+I will soon update the below list with books, videos and other resources which will help you learn/refresh the below concepts
+```
+
 ### Web Concepts
 - REST Principles
 - HTTP protocol. 
