@@ -23,6 +23,7 @@
 - [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 - [Retroactive Events](http://martinfowler.com/eaaDev/RetroactiveEvent.html)
 - [Event Collaboration](http://martinfowler.com/eaaDev/EventCollaboration.html)
+
 **Adjustment Patterns**
 - [Replacement Adjustment](http://martinfowler.com/eaaDev/ReplacementAdjustment.html)
 - [Reversal Adjustment](http://martinfowler.com/eaaDev/ReversalAdjustment.html)
