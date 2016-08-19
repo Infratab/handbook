@@ -13,6 +13,7 @@
 - [Semantic Versioning](http://semver.org/)
 - [Keep a changelog](http://keepachangelog.com/)
 - [Github Flow](https://guides.github.com/introduction/flow/)
+- [The Art of the Commit](http://alistapart.com/article/the-art-of-the-commit)
 
 ## Frontend
 ### Blogs
