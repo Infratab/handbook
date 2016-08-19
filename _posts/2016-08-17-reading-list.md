@@ -4,6 +4,7 @@
 - [Rubber Duck Problem Solving style of communication](https://blog.codinghorror.com/rubber-duck-problem-solving/)
 - [Putting thought into things](https://ia.net/know-how/putting-thought-into-things)
 - [Learn to read the source, Luke](https://blog.codinghorror.com/learn-to-read-the-source-luke/)
+- [Escaping from Gilligan's Island](https://blog.codinghorror.com/escaping-from-gilligans-island/)
 
 ### Books
 - [Remote](https://37signals.com/remote)
