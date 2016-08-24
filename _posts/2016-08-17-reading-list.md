@@ -30,6 +30,7 @@
 - [Event Collaboration](http://martinfowler.com/eaaDev/EventCollaboration.html)
 
 **Adjustment Patterns**
+
 - [Replacement Adjustment](http://martinfowler.com/eaaDev/ReplacementAdjustment.html)
 - [Reversal Adjustment](http://martinfowler.com/eaaDev/ReversalAdjustment.html)
 - [Difference Adjustment](http://martinfowler.com/eaaDev/DifferenceAdjustment.html)
