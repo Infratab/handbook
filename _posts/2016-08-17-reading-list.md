@@ -18,10 +18,12 @@
 - [The Art of the Commit](http://alistapart.com/article/the-art-of-the-commit)
 
 ## Frontend
+
 ### Blogs
 - [How prototyping is replacing documentation](http://uxmag.com/articles/how-prototyping-is-replacing-documentation)
 
 ## Backend
+
 ### Design Patterns
 - [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 - [Retroactive Events](http://martinfowler.com/eaaDev/RetroactiveEvent.html)
