@@ -15,7 +15,9 @@
 - [Semantic Versioning](http://semver.org/)
 - [Keep a changelog](http://keepachangelog.com/)
 - [Github Flow](https://guides.github.com/introduction/flow/)
-- [The Art of the Commit](http://alistapart.com/article/the-art-of-the-commit)
+- Git commit message
+  - [The Art of the Commit](http://alistapart.com/article/the-art-of-the-commit)
+  - [How to write a good git commit message](http://chris.beams.io/posts/git-commit/)
 
 ## Frontend
 
